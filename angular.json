@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "standalone-comments-outside-editor"
+    }
+  },
+  "defaultProject": "standalone-comments-outside-editor",
+  "cli": {
+    "analytics": false
+  }
 }
